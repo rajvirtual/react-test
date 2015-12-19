@@ -6,6 +6,8 @@ var {useBasename, createHistory} = require('history');
 import createBrowserHistory from 'history/lib/createBrowserHistory';
 
 var Parse = require('parse').Parse;
+// Insert your parse credentials here.
+Parse.initialize("xxx", "xxx");
 
 const history = useBasename(createHistory)({
   basename: '/'
