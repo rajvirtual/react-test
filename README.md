@@ -2,6 +2,8 @@
 
 This is a Demo app using ReactJS/Flux architecture and Parse.com Cloud Platform.
 
+<b>Instructions</b>
+
 Step 1:
 Install Babel WebPack and WebPack Dev Server. 
 npm install babel webpack  webpack-dev-server -g
