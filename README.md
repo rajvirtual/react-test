@@ -8,7 +8,9 @@ npm install babel webpack  webpack-dev-server -g
 
 Step 2: Update your Parse.com credentials in /src/main.js file.
 
+
 npm install
+
 npm start
 
 
